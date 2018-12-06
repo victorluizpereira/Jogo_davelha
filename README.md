@@ -1,3 +1,3 @@
 # Jogo da velha 
-*IDE code::blocks
-*Programa incompleto
+*IDE code::blocks.
+*Programa incompleto.
