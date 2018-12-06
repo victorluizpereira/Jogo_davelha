@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544118121 source:/home/victor-lp/Downloads/Jogodavelha/main.c
+	<stdio.h>
+	<stdlib.h>
+	<gconio.h>
+
